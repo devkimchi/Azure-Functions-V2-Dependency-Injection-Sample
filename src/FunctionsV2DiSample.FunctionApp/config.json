@@ -1,0 +1,8 @@
+{
+  "github": {
+    "baseUrl": "https://api.github.com/",
+    "endpoints": {
+      "repositories": "{0}/{1}/repos"
+    }
+  }
+}

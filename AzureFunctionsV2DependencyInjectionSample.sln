@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{93282150-FCD3-4B13-99C6-5A71A1D2F967}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsV2DiSample.FunctionApp", "src\FunctionsV2DiSample.FunctionApp\FunctionsV2DiSample.FunctionApp.csproj", "{5A939504-A3F7-4208-8599-F96FAAC817DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EFC49283-E92E-47C5-8998-721CFBF3BB13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionsV2DiSample.FunctionApp.Tests", "test\FunctionsV2DiSample.FunctionApp.Tests\FunctionsV2DiSample.FunctionApp.Tests.csproj", "{F50077C3-4650-4330-B631-1DC9E09E19F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADFD6F77-DC02-4ADD-A190-D046D9E12CD4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		.mailmap = .mailmap
+		LICENSE = LICENSE
+		README.md = README.md
+		Settings.StyleCop = Settings.StyleCop
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A939504-A3F7-4208-8599-F96FAAC817DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A939504-A3F7-4208-8599-F96FAAC817DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A939504-A3F7-4208-8599-F96FAAC817DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A939504-A3F7-4208-8599-F96FAAC817DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50077C3-4650-4330-B631-1DC9E09E19F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50077C3-4650-4330-B631-1DC9E09E19F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50077C3-4650-4330-B631-1DC9E09E19F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50077C3-4650-4330-B631-1DC9E09E19F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A939504-A3F7-4208-8599-F96FAAC817DF} = {93282150-FCD3-4B13-99C6-5A71A1D2F967}
+		{F50077C3-4650-4330-B631-1DC9E09E19F1} = {EFC49283-E92E-47C5-8998-721CFBF3BB13}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D809443-901B-4D07-8205-2C4B97948128}
+	EndGlobalSection
+EndGlobal
