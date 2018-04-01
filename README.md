@@ -5,8 +5,8 @@ This provides sample codes for Azure Functions V2, with regards to dependency in
 
 ## More Readings ##
 
-* English: [Dependency Injections on Azure Functions V2](https://devkimchi.com/coming-soon)
-* 한국어: [애저 펑션 V2 에서 의존성 주입 및 관리](http://blog.aliencube.com/coming-soon)
+* English: Dependency Injections on Azure Functions V2 &ndash; [DevKimchi](https://devkimchi.com/#coming-soon), [Mexia](https://blog.mexia.com.au/#coming-soon)
+* 한국어: 애저 펑션 V2 에서 의존성 주입 및 관리 &ndash; [Aliencube](http://blog.aliencube.com/#coming-soon)
 
 
 ## Contribution ##
